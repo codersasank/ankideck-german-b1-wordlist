@@ -14,4 +14,4 @@ The translations and audio files have been borrowed from [this repository](https
 2. Layout files of the Anki cards (back_template.txt , front_template.txt, styling.txt)
 3. CSV file (tab delimited) used to create the deck
 4. XLSX file which contains the wordlist and is used to run Python scripts
-5. Python scripts to generate DeepL transalations and TTS Audio files (my own scripts)
+5. Python scripts to generate DeepL translations and TTS Audio files (my own scripts)

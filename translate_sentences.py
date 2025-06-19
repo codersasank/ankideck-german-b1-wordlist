@@ -10,7 +10,7 @@ def translate(text):
     
 if __name__=="__main__":
     # Give the location of the XLSX file
-    path = "A2_Wortliste.xlsx"
+    path = "B1_Wortliste.xlsx"
     # workbook object is created
     wb_obj = openpyxl.load_workbook(path)
     sheet_obj = wb_obj.active

@@ -1,0 +1,9 @@
+<span class="{{de_article}}">
+{{#de_word_full}}{{de_word_full}}{{/de_word_full}}
+{{audio_de_word}}</span>
+
+{{#de_sentence}}
+<br>
+<i>{{de_sentence}}</i>
+{{/de_sentence}}
+{{audio_de_sentence}}

@@ -1,0 +1,14 @@
+{{FrontSide}}
+
+{{#notes}}
+<br><br>
+<small>{{notes}}</small>
+{{/notes}}
+
+<hr id=answer>
+
+{{en_word}}
+{{#en_sentence}}
+<br><br>
+<i>{{en_sentence}}</i>
+{{/en_sentence}}
